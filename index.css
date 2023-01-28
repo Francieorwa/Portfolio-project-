@@ -1,0 +1,116 @@
+#navbar{
+    background-color: #be3144;
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    
+}
+#welcome-section{
+    background-color:#181719
+    ;
+    height:100vh;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ 
+}
+h1{
+    font-size: 100px;
+    font-weight: 700;
+    color: white;
+
+}
+p{
+    font-size: 50px;
+    color:#be3144
+}
+#projects{
+    background-color: #45567d;
+    padding:10rem 2rem ;
+    color: white;
+}
+h2{
+    font-size: 60px;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+.project-titles{ 
+     display: flex;
+    justify-content:center;
+    flex-direction: row;
+    
+    
+}
+#project-details{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+#image-link{
+    height: 15cm;
+    background-color:#303841;
+    width: 15cm;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    margin-top: 40px;
+   
+}
+#image{
+    height: 12cm;
+    width: 15cm;
+    
+}
+#link{
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+}
+#button{
+    margin-top: 50px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+#footer{
+    background-color:#181719;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#footer-detail p{
+    color: white;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 300;
+}
+
+#icons a{
+    padding-left: 20px;
+    color: white;
+    text-decoration: none;
+    font-size:30px ;
+}
+#copyright{
+    margin-top: 50px;
+    border-top: 5px solid #be3144;
+    width: 100%;
+}
+#copyright p{
+    color: white;
+    font-size:25px ;
+}
