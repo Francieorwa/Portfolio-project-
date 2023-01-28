@@ -114,3 +114,14 @@ h2{
     color: white;
     font-size:25px ;
 }
+@media (min-width: 800px) {
+    #welcome-section {
+      height: 80vh;
+    }
+  }
+ 
+  
+  
+  
+  
+  
